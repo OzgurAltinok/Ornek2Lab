@@ -1,0 +1,7 @@
+C:\Users\Ozgur Can\source\repos\Ornek2Lab\Ornek2Lab\bin\Debug\Ornek2Lab.exe.config
+C:\Users\Ozgur Can\source\repos\Ornek2Lab\Ornek2Lab\bin\Debug\Ornek2Lab.exe
+C:\Users\Ozgur Can\source\repos\Ornek2Lab\Ornek2Lab\bin\Debug\Ornek2Lab.pdb
+C:\Users\Ozgur Can\source\repos\Ornek2Lab\Ornek2Lab\obj\Debug\Ornek2Lab.csprojAssemblyReference.cache
+C:\Users\Ozgur Can\source\repos\Ornek2Lab\Ornek2Lab\obj\Debug\Ornek2Lab.csproj.CoreCompileInputs.cache
+C:\Users\Ozgur Can\source\repos\Ornek2Lab\Ornek2Lab\obj\Debug\Ornek2Lab.exe
+C:\Users\Ozgur Can\source\repos\Ornek2Lab\Ornek2Lab\obj\Debug\Ornek2Lab.pdb
